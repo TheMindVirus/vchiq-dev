@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/Module.symvers := sed 's/ko$$/o/' /home/pi/Documents/vchiq/modules.order | scripts/mod/modpost -m -a   -o /home/pi/Documents/vchiq/Module.symvers -e -i Module.symvers   -T -

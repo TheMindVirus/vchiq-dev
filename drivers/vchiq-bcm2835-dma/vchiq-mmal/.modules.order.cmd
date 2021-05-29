@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/vchiq-mmal/modules.order := {   echo /home/pi/Documents/vchiq/vchiq-mmal/bcm2835-mmal-vchiq.ko; :; } | awk '!x[$$0]++' - > /home/pi/Documents/vchiq/vchiq-mmal/modules.order

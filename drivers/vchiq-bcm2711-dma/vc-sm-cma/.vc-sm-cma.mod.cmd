@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.mod := { echo  /home/pi/Documents/vchiq/vc-sm-cma/vc_sm.o /home/pi/Documents/vchiq/vc-sm-cma/vc_sm_cma_vchi.o;  echo; } > /home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.mod

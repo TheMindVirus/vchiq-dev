@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.ko /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.o /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-codec/modules.order := {   echo /home/pi/Documents/vchiq/bcm2835-codec/bcm2835-codec.ko; :; } | awk '!x[$$0]++' - > /home/pi/Documents/vchiq/bcm2835-codec/modules.order

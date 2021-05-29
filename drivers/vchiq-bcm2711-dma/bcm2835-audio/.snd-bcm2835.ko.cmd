@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-audio/snd-bcm2835.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/vchiq/bcm2835-audio/snd-bcm2835.ko /home/pi/Documents/vchiq/bcm2835-audio/snd-bcm2835.o /home/pi/Documents/vchiq/bcm2835-audio/snd-bcm2835.mod.o;  true
