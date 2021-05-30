@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/vcinterface/bcm2835-vchiq2.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/vchiq/vcinterface/bcm2835-vchiq2.ko /home/pi/Documents/vchiq/vcinterface/bcm2835-vchiq2.o /home/pi/Documents/vchiq/vcinterface/bcm2835-vchiq2.mod.o;  true

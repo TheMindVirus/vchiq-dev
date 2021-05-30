@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-camera/modules.order := {   echo /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.ko; :; } | awk '!x[$$0]++' - > /home/pi/Documents/vchiq/bcm2835-camera/modules.order

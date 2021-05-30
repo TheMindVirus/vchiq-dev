@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.o := ld  -EL    -r -o /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.o /home/pi/Documents/vchiq/bcm2835-camera/bcm2835-camera.o /home/pi/Documents/vchiq/bcm2835-camera/controls.o

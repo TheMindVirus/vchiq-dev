@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/bcm2835-isp/bcm2835-isp.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/vchiq/bcm2835-isp/bcm2835-isp.ko /home/pi/Documents/vchiq/bcm2835-isp/bcm2835-isp.o /home/pi/Documents/vchiq/bcm2835-isp/bcm2835-isp.mod.o;  true

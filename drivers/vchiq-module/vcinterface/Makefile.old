@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0
+bcm2835-vchiq-arm-$(CONFIG_VCINTERFACE)		:= vchiq_core.o vchiq_arm.o vchiq_2835-arm.o vchiq_debugfs.o vchiq_connected.o
+obj-$(CONFIG_VCINTERFACE)			+= bcm2835-vchiq-arm.o
+
+ccflags-y += -I$(srctree)/$(src)/../include -D__VCCOREVER__=0x04000000

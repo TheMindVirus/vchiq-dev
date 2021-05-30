@@ -1,0 +1,7 @@
+/home/pi/Documents/vchiq/bcm2835-audio/snd-bcm2835.ko
+/home/pi/Documents/vchiq/bcm2835-camera/bcm2835-v4l2.ko
+/home/pi/Documents/vchiq/vchiq-mmal/bcm2835-mmal-vchiq.ko
+/home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.ko
+/home/pi/Documents/vchiq/bcm2835-codec/bcm2835-codec.ko
+/home/pi/Documents/vchiq/bcm2835-isp/bcm2835-isp.ko
+/home/pi/Documents/vchiq/vcinterface/bcm2835-vchiq2.ko

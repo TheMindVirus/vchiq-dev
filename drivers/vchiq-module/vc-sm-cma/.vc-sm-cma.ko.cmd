@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.ko /home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.o /home/pi/Documents/vchiq/vc-sm-cma/vc-sm-cma.mod.o;  true
